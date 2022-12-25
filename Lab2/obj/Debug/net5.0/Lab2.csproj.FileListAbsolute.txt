@@ -1,0 +1,79 @@
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\bin\Debug\net5.0\appsettings.json
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\bin\Debug\net5.0\Lab2.exe
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\bin\Debug\net5.0\Lab2.deps.json
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.json
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.dev.json
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\bin\Debug\net5.0\Lab2.dll
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\bin\Debug\net5.0\Lab2.pdb
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\bin\Debug\net5.0\Lab2.Views.dll
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\bin\Debug\net5.0\Lab2.Views.pdb
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.csproj.AssemblyReference.cache
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfo.cs
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.RazorAssemblyInfo.cache
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.RazorAssemblyInfo.cs
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\scopedcss\bundle\Lab2.styles.css
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\staticwebassets\Lab2.StaticWebAssets.Manifest.cache
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.TagHelpers.input.cache
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.TagHelpers.output.cache
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.RazorCoreGenerate.cache
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Razor\Views\Calc\Index.cshtml.g.cs
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Razor\Views\Calc\Result.cshtml.g.cs
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Razor\Views\Calc\ViewWithHtmlHelpers.cshtml.g.cs
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Razor\Views\Calc\ViewWithTagHelpers.cshtml.g.cs
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.RazorTargetAssemblyInfo.cache
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.RazorTargetAssemblyInfo.cs
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.Views.pdb
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.dll
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\refint\Lab2.dll
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.pdb
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.genruntimeconfig.cache
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\ref\Lab2.dll
+C:\Users\Helga\Desktop\лабы\Вебы\931802.kozyreva.ann.lab2-master\Lab2\obj\Debug\net5.0\Lab2.csproj.CopyComplete
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\bin\Debug\net5.0\appsettings.json
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\bin\Debug\net5.0\Lab2.exe
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\bin\Debug\net5.0\Lab2.deps.json
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.json
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.dev.json
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\bin\Debug\net5.0\Lab2.dll
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\bin\Debug\net5.0\ref\Lab2.dll
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\bin\Debug\net5.0\Lab2.pdb
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\bin\Debug\net5.0\Lab2.Views.dll
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\bin\Debug\net5.0\Lab2.Views.pdb
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\Lab2.csproj.AssemblyReference.cache
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfo.cs
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\Lab2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\Lab2.RazorAssemblyInfo.cache
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\Lab2.RazorAssemblyInfo.cs
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\staticwebassets\Lab2.StaticWebAssets.Manifest.cache
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\staticwebassets\Lab2.StaticWebAssets.xml
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\scopedcss\bundle\Lab2.styles.css
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\Lab2.TagHelpers.input.cache
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\Lab2.TagHelpers.output.cache
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\Lab2.RazorCoreGenerate.cache
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\Razor\Views\Calc\Index.cshtml.g.cs
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\Razor\Views\Calc\Result.cshtml.g.cs
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\Razor\Views\Calc\ViewWithHtmlHelpers.cshtml.g.cs
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\Razor\Views\Calc\ViewWithTagHelpers.cshtml.g.cs
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\Lab2.RazorTargetAssemblyInfo.cache
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\Lab2.RazorTargetAssemblyInfo.cs
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\Lab2.Views.pdb
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\Lab2.dll
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\ref\Lab2.dll
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\Lab2.pdb
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\Lab2.genruntimeconfig.cache
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 2\Lab2\obj\Debug\net5.0\Lab2.csproj.CopyComplete
